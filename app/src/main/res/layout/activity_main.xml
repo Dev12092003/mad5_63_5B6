@@ -39,7 +39,7 @@
             android:layout_marginHorizontal="30dp"
             android:ems="10"
             android:inputType="textWebEditText"
-            android:text="https//google.com"
+
             app:layout_constraintBaseline_toBaselineOf="@id/t_1"
             app:layout_constraintEnd_toStartOf="@id/btn_browser"
             app:layout_constraintStart_toEndOf="@+id/t_1"
@@ -72,7 +72,6 @@
             android:layout_marginHorizontal="30dp"
             android:ems="10"
             android:inputType="phone"
-            android:text="999999999"
             app:layout_constraintBaseline_toBaselineOf="@id/phone_txt"
             app:layout_constraintEnd_toStartOf="@id/btn_call"
             app:layout_constraintStart_toEndOf="@id/phone_txt"
